@@ -1,3 +1,5 @@
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/7e84c5db-382e-41c8-a7a5-766b5e0e74c1" />
+
 # Data Pipeline with DVC and MLflow for Machine Learning
 
 This project demonstrates how to build an end-to-end machine learning pipeline using DVC (Data Version Control) for data and model versioning, and MLflow for experiment tracking. The pipeline focuses on training a Random Forest Classifier on the Pima Indians Diabetes Dataset, with clear stages for data preprocessing, model training, and evaluation.
